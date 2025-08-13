@@ -1,6 +1,5 @@
-# Diwali_Sales_Analysis
+##============== Diwali_Sales_Analysis ==============##
 
-# Diwali Sales Analysis
 
 A compact, reproducible analysis of seasonal purchasing patterns using a Diwali retail dataset. The notebook explores customer demographics, product categories, and order value trends to surface actionable insights for marketing and inventory planning.
 
